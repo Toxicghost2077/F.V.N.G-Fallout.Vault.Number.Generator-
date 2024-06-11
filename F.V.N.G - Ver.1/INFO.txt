@@ -1,0 +1,6 @@
+This is a python code that gives you a vault number
+it will not give you any real fallout vaults.
+
+when you press two times on the Vault number maker.py it will make a vault_number.txt in this folder
+
+WARNING DO NOT TAMPER WITH THE CODE ANY CODE TAMPERED WITH MAY BUST THE PROGRAM
